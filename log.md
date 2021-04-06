@@ -6,7 +6,10 @@
 
 **Thoughts**: One hundred days does seem pretty daunting, especially since life is in so much flux right now, but like any muscle to flex -- this will be all worth it in the end. Python, who? I don't know her. But I will!
 
-**Link(s) to work**: [Stay tuned for regular updates!](https://twitter.com/kimmy_codes)
+**Link(s) to work**:
+
+1. [Stay tuned for regular updates!](https://twitter.com/kimmy_codes)
+2. [Sum Mixed Array](https://www.codewars.com/kata/57eaeb9578748ff92a000009)
 
 <!-- ### Day 1: June 27, Monday
 
