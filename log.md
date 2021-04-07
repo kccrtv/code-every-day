@@ -1,6 +1,17 @@
 # 100 Days Of Code - Log
 
-### Day 0: April 6, 2021 (Example 1)
+### Day 1: April 7, 2021
+
+**Today's Progress**: JavaScript
+
+**Thoughts**:
+
+**Link(s) to work**:
+
+1. []()
+2. [Day 0 Tweet](https://twitter.com/kimmy_codes/status/1379454499828342793?s=20)
+
+### Day 0: April 6, 2021
 
 **Today's Progress**: Committing to the #100DaysOfCode challenge. Let's get it!!
 
@@ -9,15 +20,4 @@
 **Link(s) to work**:
 
 1. [Stay tuned for regular updates!](https://twitter.com/kimmy_codes)
-2. [Sum Mixed Array](https://www.codewars.com/kata/57eaeb9578748ff92a000009)
-
-<!-- ### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-
-1. [Find the Longest Word in a String]()
-2. [Title Case a Sentence]() -->
+2. [Codewars: Sum Mixed Array](https://www.codewars.com/kata/57eaeb9578748ff92a000009)
