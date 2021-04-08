@@ -2,13 +2,13 @@
 
 ### Day 1: April 7, 2021
 
-**Today's Progress**: JavaScript
+**Today's Progress**: React Native
 
-**Thoughts**:
+**Thoughts**: New language, who dis? React Native's home page boasts "Learn once, write anywhere" so I'm pretty excited to get this knowledge in my toolbox and get to the point where I can call myself not only a React Native developer, but a mobile app developer! Now, how do I get started?
 
 **Link(s) to work**:
 
-1. []()
+1. [Repo set up for Hack Week!](https://github.com/kccrtv/BoatMobile)
 2. [Day 0 Tweet](https://twitter.com/kimmy_codes/status/1379454499828342793?s=20)
 
 ### Day 0: April 6, 2021
