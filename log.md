@@ -8,7 +8,7 @@
 
 **Link(s) to work**:
 
-1. [Python Coding Challenges]()
+1. [Python Coding Challenges](https://github.com/kccrtv/code-every-day/blob/days/day-3/challenges.py)
 2. [Day 2 Tweet](https://twitter.com/kimmy_codes/status/1379957452897087490?s=20)
 
 ### Day 2: April 7, 2021
