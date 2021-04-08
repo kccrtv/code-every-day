@@ -1,6 +1,17 @@
 # 100 Days Of Code - Log
 
-### Day 1: April 7, 2021
+### Day 3: April 8, 2021
+
+**Today's Progress**: Python
+
+**Thoughts**: Project 3 week ended the day before I committed to the 100 days of code, so my brain needed some time to switch gears into python. We started today off in class with Python coding challenges and I can feel the gears warming up and getting into motion! Like any new language, I'm gonna need time and my noise cancelling headphones to lock in and concentrate.
+
+**Link(s) to work**:
+
+1. [Python Coding Challenges]()
+2. [Day 2 Tweet](https://twitter.com/kimmy_codes/status/1379957452897087490?s=20)
+
+### Day 2: April 7, 2021
 
 **Today's Progress**: React Native
 
@@ -9,9 +20,10 @@
 **Link(s) to work**:
 
 1. [Repo set up for Hack Week!](https://github.com/kccrtv/boat-mobile)
-2. [Day 0 Tweet](https://twitter.com/kimmy_codes/status/1379454499828342793?s=20)
+2. [Day 1 Tweet](https://twitter.com/kimmy_codes/status/1379454499828342793?s=20)
+3. [Day 0 Tweet](https://twitter.com/kimmy_codes/status/1379438871104999428?s=20)
 
-### Day 0: April 6, 2021
+### Day 0/1: April 6, 2021
 
 **Today's Progress**: Committing to the #100DaysOfCode challenge. Let's get it!!
 
