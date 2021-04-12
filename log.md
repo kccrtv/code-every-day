@@ -1,5 +1,37 @@
 # 100 Days Of Code - Log
 
+### Day 6: April 11, 2021
+
+**Today's Progress**: React Native
+
+**Thoughts**: The work-life balance is really testing my limits today. Hack Week project is due tomorrow at 7am PDT (10am EDT) and I had to lower my personal standards to have something solid to submit. Distractions come naturally in life. I found myself actively grounding my nerves and reminding myself that our instructors wanted this project to be done in a safe, learning environment, and that they weren't expecting perfection this time around.
+
+**Link(s) to work**:
+
+1. [Hack Week Progress](https://github.com/kccrtv/BoatMobile/commit/679b9f19d67a800a6fe7c6810fff135318f93e8f)
+
+### Day 5: April 10, 2021
+
+**Today's Progress**: React Native
+
+**Thoughts**: The people who make the time to create Udemy tutorials is like Boss Level 100 status. You definitely have to weed out the flubs, but the ones that have great substance are gold. I'm the type to benefit from structure and knowing how the language is implemented in the "real world" so this defintely puts my nerves at ease for the remaining two days left of Hack Week.
+
+**Link(s) to work**:
+
+1. [Hack Week Progress](https://github.com/kccrtv/BoatMobile/commit/51f7ca561d3c5a7cdcb9cf83632b4c5dcbb8e279)
+2. [Day 4 Tweet](https://twitter.com/kimmy_codes/status/1380702193699803140?s=20)
+
+### Day 4: April 9, 2021
+
+**Today's Progress**: Django
+
+**Thoughts**: Are we really learning four new languages/frameworks this week? I guess we are! Made some progress on my Hack Week project. We're having guests over this weekend, so there will definitely be the challenge of work-life balance in the next few days.
+
+**Link(s) to work**:
+
+1. [Hack Week Progress](https://github.com/kccrtv/BoatMobile/commit/865528736e0760adb9c625b39ab4d9b6a42f362d)
+2. [Day 3 Tweet](https://twitter.com/kimmy_codes/status/1380175822267408392?s=20)
+
 ### Day 3: April 8, 2021
 
 **Today's Progress**: Python
