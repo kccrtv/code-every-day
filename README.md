@@ -2,6 +2,7 @@
 
 Days:
 
+- [7](https://github.com/kccrtv/code-every-day/blob/main/log.md#day-7-april-12-2021)
 - [6](https://github.com/kccrtv/code-every-day/blob/main/log.md#day-6-april-11-2021)
 - [5](https://github.com/kccrtv/code-every-day/blob/main/log.md#day-5-april-10-2021)
 - [4](https://github.com/kccrtv/code-every-day/blob/main/log.md#day-4-april-9-2021)
