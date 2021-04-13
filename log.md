@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 7: April 12, 2021
+
+**Today's Progress**: Django Views and Templating
+
+**Thoughts**: For our hack-week project presentations, my classmates took the initiative to learn new tech! This morning we saw open-source contributors, Three.js, Docker.io, AWS Lambda, Angular.js, cURL, Phaser.io... more to come tomorrow! We dived into the Create and Read for Django views and templating -- which reminds me a lot of some EJS templating I learned a few months ago.
+
+**Link(s) to work**:
+
+1. [Old EJS Templating Project](https://github.com/kccrtv/blog/blob/master/views/home.ejs)
+2. [Day 6 Tweet](https://twitter.com/kimmy_codes/status/1381606896814059520?s=20)
+
 ### Day 6: April 11, 2021
 
 **Today's Progress**: React Native
