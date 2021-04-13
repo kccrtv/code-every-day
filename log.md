@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 8: April 13, 2021
+
+**Today's Progress**: JavaScript
+
+**Thoughts**: A simple CodeWars multiplying kata to keep my vanilla JavaScript skills fresh. Been trying to get into the headspace of proposing my capstone project on Friday, and I want to keep going with React Native and maybe tap into some Google Maps API and Firebase...
+
+**Link(s) to work**:
+
+1. [Multiply Codewars Kata](http://codewars.com/r/bKoHJg)
+2. [Day 7 Tweet](https://twitter.com/kimmy_codes/status/1381645804016824323?s=20)
+
 ### Day 7: April 12, 2021
 
 **Today's Progress**: Django Views and Templating
