@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 9: April 14, 2021
+
+**Today's Progress**: Django REST Framework with with Token Authentication
+
+**Thoughts**: Why is creating a virtual environment so confusing in Django? It's the startproject to startapp I suppose. But the difference between the UI backend with DRF versus Django monolith is _chef's kiss_ perfection. Then add the auth tokens, and that set up was so much quicker than configuring models, viewsets, and urls.
+
+**Link(s) to work**:
+
+1. [Check out my GitHub Profile README!](https://github.com/kccrtv/kccrtv/blob/main/README.md)
+2. [Day 8 Tweet](https://twitter.com/kimmy_codes/status/1382022504655462409?s=20)
+
 ### Day 8: April 13, 2021
 
 **Today's Progress**: JavaScript
