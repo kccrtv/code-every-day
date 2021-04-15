@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 10: April 15, 2021
+
+**Today's Progress**: Python
+
+**Thoughts**: Getting more reps in a Python code challenge today. This is a great exercise to translate our JS thinking into Python and making it into a useful language in our coding toolbox.
+
+**Link(s) to work**:
+
+1. [Remove First and Last Character CodeWars Kata](https://bit.ly/3djwPER)
+2. [Day 9 Tweet](https://twitter.com/kimmy_codes/status/1382433452822196225?s=20)
+
 ### Day 9: April 14, 2021
 
 **Today's Progress**: Django REST Framework with with Token Authentication
