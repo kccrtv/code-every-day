@@ -1,5 +1,49 @@
 # 100 Days Of Code - Log
 
+### Day 14: April 19, 2021
+
+**Today's Progress**: React, Firebase
+
+**Thoughts**: Again, shoutout to the fantastic people who make tutorials (for free!). Today I'm kicking off the official Project 4 capstone week learning about Firebase and how it will streamline user authentication into my app.
+
+**Link(s) to work**:
+
+1. [Firebase React Tutorial](https://www.youtube.com/watch?v=PKwu15ldZ7k)
+2. [Day 13 Tweet](https://twitter.com/kimmy_codes/status/1383971454270644230?s=20)
+
+### Day 13: April 18, 2021
+
+**Today's Progress**: React
+
+**Thoughts**: I have been determined to do a light and dark mode in every project, but ran out of time and sanity to do so. This time around I took some time to learn theming in React today, and four js screens and a json schema later, we have light and dark mode, y'all!
+
+**Link(s) to work**:
+
+1. [Theming in React Tutorial](https://css-tricks.com/theming-and-theme-switching-with-react-and-styled-components/)
+2. [Day 12 Tweet](https://twitter.com/kimmy_codes/status/1383970987989889030?s=20)
+
+### Day 12: April 17, 2021
+
+**Today's Progress**: Storybook.js
+
+**Thoughts**: Even though most of us are proceeding with our final projects independently, my classmates and I find excuses to chat with each other and help one another out. I helped my colleague working in Storybook.js do some bug hunting, and it was a learning process for the both of us, since this UI framework is unfamiliar!
+
+**Link(s) to work**:
+
+1. [Storybook.js](https://storybook.js.org/)
+2. [Day 11 Tweet](https://twitter.com/kimmy_codes/status/1383233720388259844?s=20)
+
+### Day 11: April 16, 2021
+
+**Today's Progress**: ARKit, iOS
+
+**Thoughts**: Most of my coding knowledge stems from the fantastic people over at the [London App Brewery](https://www.londonappbrewery.com/) and their courses continue to inspire me. I seriously considered using ARKit as my "new tech" piece to incorporate into my capstone project, but ended up ditching the idea because I would want to spend more than a work week delving into it. I got my little fix by rendering a 3d Hogwarts Express onto my illustrated copy of The Sorceror's/Philospher's Stone!
+
+**Link(s) to work**:
+
+1. [ARKit Demo Magic](https://twitter.com/kimmy_codes/status/1383233720388259844?s=20)
+2. [Day 10 Tweet](https://twitter.com/kimmy_codes/status/1382709517981417473?s=20)
+
 ### Day 10: April 15, 2021
 
 **Today's Progress**: Python
