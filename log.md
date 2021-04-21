@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 15: April 20, 2021
+
+**Today's Progress**: React, Firebase, Material UI
+
+**Thoughts**: When I was a UX Designer, Sketch app was all that was standard, now templates like Google's Material UI Design System require a few lines/pages of code to render beautifully responsive components like forms or navigation bars. On another note, Firebase auth took only a few hours to get set up in my capstone app. This makes me at MVP, and it's only Tuesday! I'm one step closer to playing around with TensorFlow or GestureAI! So stoked.
+
+**Link(s) to work**:
+
+1. [MUI Treasury -- the creator is a junior dev? 😱](https://mui-treasury.com/)
+2. [Day 14 Tweet](https://twitter.com/kimmy_codes/status/1384268604108009480?s=20)
+
 ### Day 14: April 19, 2021
 
 **Today's Progress**: React, Firebase
