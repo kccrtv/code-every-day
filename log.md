@@ -9,7 +9,7 @@
 **Link(s) to work**:
 
 1. [MUI Treasury -- the creator is a junior dev? 😱](https://mui-treasury.com/)
-2. [Day 15 Tweet](https://twitter.com/kimmy_codes/status/1384668099941523459?s=20)
+2. [Day 14 Tweet](https://twitter.com/kimmy_codes/status/1384268604108009480?s=20)
 
 ### Day 14: April 19, 2021
 
