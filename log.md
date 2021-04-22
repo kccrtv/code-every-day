@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 16: April 21, 2021
+
+**Today's Progress**: React, Material UI, Firebase
+
+**Thoughts**: Still a little new to useContext and how it ties into the puzzle pieces of my app. Setting up an auth context was easy enough, but I think my minor blocker with my fave context is that I haven't set up my components to pull data from the JSON object and so I can't set up a fave array because there isn't data to gather!
+
+**Link(s) to work**:
+
+1. [Older React CRUD tutorial](https://www.youtube.com/watch?v=yyo_TcZCrS4&t=13s)
+2. [Day 15 Tweet](https://twitter.com/kimmy_codes/status/1384668099941523459?s=20)
+
 ### Day 15: April 20, 2021
 
 **Today's Progress**: React, Firebase, Material UI
