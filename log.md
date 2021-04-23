@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 17: April 22, 2021
+
+**Today's Progress**: React
+
+**Thoughts**: `useEffect()` hooks are still something I could use some improvement on. Understanding the Component Life Cycle and how events fire at certain times is crucial to piecing together the end user's interaction of your app and that they are experiencing it the way you intended them to. It's interesting that the difference lies between `[]` or `return () => {}`
+
+**Link(s) to work**:
+
+1. [Lifecycle Diagram](https://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/)
+2. [Day 16 Tweet](https://twitter.com/kimmy_codes/status/1385051521344147458?s=20)
+
 ### Day 16: April 21, 2021
 
 **Today's Progress**: React, Material UI, Firebase
